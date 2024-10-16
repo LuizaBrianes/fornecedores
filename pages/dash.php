@@ -1,0 +1,1 @@
+<h1 class="text-center">Bem-vindo, <?php echo $_SESSION['admin']['name'] ?></h1>
